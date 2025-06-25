@@ -55,7 +55,7 @@ While the book is thorough, it could benefit from:
 
 ## 📄 File Included
 
-- `SEC-CYBERSECURITY Book Review.pdf`: The full review text as written by Raj Bhadani.
+- `Cybersecurity Book Review.pdf`: The full review text as written by Raj Bhadani.
 
 ---
 
